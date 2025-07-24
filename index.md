@@ -10,7 +10,7 @@ publication-date: 2025-07-21
 </p>
 
 
-<!-- Grid Container -->
+<!-- Grid Container D -->
 {% assign items = site.data.courseInformation.courses %}
 
 <div class="course-grid" id="course-grid">
